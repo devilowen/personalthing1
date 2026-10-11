@@ -1,0 +1,13 @@
+{
+  "board": {
+    "x": 100,
+    "y": 100,
+    "width": 360,
+    "height": 720
+  },
+  "scan_interval_ms": 180,
+  "search_depth": 3,
+  "confidence_threshold": 0.55,
+  "water_level": 3,
+  "coordinate_mode": "physical_pixels"
+}
